@@ -17,7 +17,7 @@ export default class extends Component {
               </a>
             </li>
             <li>
-              <a href="http://www.creative-tim.com/license">
+              <a href="https://github.com/german970814/hotelium">
                 Repositorio
               </a>
             </li>

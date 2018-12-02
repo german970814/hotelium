@@ -17,7 +17,7 @@ export default class extends Component {
         <div className="collapse navbar-collapse">
           <ul className="nav navbar-nav navbar-right">
             <li>
-              <a href="#">
+              <a href="https://github.com/german970814/hotelium">
                 <i className="ti-github"></i>
                 <p>Repositorio</p>
               </a>
